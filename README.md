@@ -194,8 +194,8 @@ The model successfully learns patterns in financial data and performs accurate c
 ```
 Credit-Risk-MLP-DeepLearning
 │
-├── Credit_Risk_MLP.ipynb
-├── credit_risk_mlp.py
+├── Assignment_1.ipynb
+├── Credit_Risk_MLP.py
 │
 ├── dataset
 │   └── german_credit.csv
