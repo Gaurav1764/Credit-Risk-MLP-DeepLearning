@@ -2,29 +2,29 @@
 This project implements a Multi Layer Perceptron (MLP) neural network to predict credit risk.
 
 ## Tools Used
-Python
-TensorFlow
-Pandas
-Scikit-learn
-Matplotlib
+###1. Python
+###2. TensorFlow
+###3. Pandas
+###4. Scikit-learn
+###5. Matplotlib
 
 ## Dataset
 German Credit Dataset
 
 ## Steps
-1 Data preprocessing
-2 Feature encoding
-3 Feature scaling
-4 MLP architecture
-5 Model training
-6 Performance evaluation
+###1. Data preprocessing
+###2. Feature encoding
+###3. Feature scaling
+###4. MLP architecture
+###5. Model training
+###6. Performance evaluation
 
 ## Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion Matrix
+###1. Accuracy
+###2. Precision
+###3. Recall
+###4. F1 Score
+###5. Confusion Matrix
 
-Author: Gaurav Chauhan
+Author: Gaurav Kumar
 MCA Deep Learning Lab
